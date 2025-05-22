@@ -66,7 +66,4 @@
 
 -   Parallel analysis highlighted key differences in gene regulation and cell-type distribution driven by gene biotype.
 
-```{=html}
-<!-- -->
-```
 -   The comparison supports the hypothesis that **Phgdh loss impacts both metabolic and non-coding transcriptional networks**.
