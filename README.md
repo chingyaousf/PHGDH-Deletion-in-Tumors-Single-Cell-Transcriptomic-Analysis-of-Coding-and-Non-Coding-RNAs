@@ -67,3 +67,7 @@
 -   Parallel analysis highlighted key differences in gene regulation and cell-type distribution driven by gene biotype.
 
 -   The comparison supports the hypothesis that **Phgdh loss impacts both metabolic and non-coding transcriptional networks**.
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/tsne_louvain_res_p3.png?raw=true){width="500"}
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/umap_louvain_res_p3.png?raw=true){width="500"}
