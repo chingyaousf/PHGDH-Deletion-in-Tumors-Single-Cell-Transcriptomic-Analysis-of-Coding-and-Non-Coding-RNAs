@@ -71,3 +71,17 @@
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/tsne_louvain_res_p3.png?raw=true){width="500"}
 
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/umap_louvain_res_p3.png?raw=true){width="500"}
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/seurat_obj_mouse_with_gene_type_03_violin_exp2.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/seurat_obj_mouse_with_gene_type_03_feature_exp.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/umap_coding_vs_noncoding_subset.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/umap_coding_vs_noncoding_overlay.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/feature_plot_coding_vs_noncoding_02.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/var_features.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/var_features_noncoding.png?raw=true)
