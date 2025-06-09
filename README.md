@@ -96,6 +96,6 @@
 
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/dotplot_top5_noncoding.png?raw=true)
 
-![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh_02/umap_coding_vs_noncoding_subset.png?raw=true)
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh_02/umap_coding_vs_noncoding_subset.png?raw=true){width="5851"}
 
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh_02/cluster_correspondence_heatmap.png?raw=true)
