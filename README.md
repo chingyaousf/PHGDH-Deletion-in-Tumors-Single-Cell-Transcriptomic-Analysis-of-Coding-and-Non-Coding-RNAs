@@ -68,6 +68,10 @@
 
 -   The comparison supports the hypothesis that **Phgdh loss impacts both metabolic and non-coding transcriptional networks**.
 
+    ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/PC_elbow_plot.png?raw=true){width="600"}
+
+    ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/scatter_rnd_QC.png?raw=true){width="1200"}
+
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/tsne_louvain_res_p3.png?raw=true){width="500"}
 
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/umap_louvain_res_p3.png?raw=true){width="500"}
@@ -91,3 +95,7 @@
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/dotplot_top5_coding.png?raw=true)
 
 ![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh/dotplot_top5_noncoding.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh_02/umap_coding_vs_noncoding_subset.png?raw=true)
+
+![](https://github.com/chingyaousf/PHGDH-Deletion-in-Tumors-Single-Cell-Transcriptomic-Analysis-of-Coding-and-Non-Coding-RNAs/blob/main/plots/phgdh_02/cluster_correspondence_heatmap.png?raw=true)
